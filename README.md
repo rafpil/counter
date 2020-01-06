@@ -1,5 +1,7 @@
 # Counter
 
+## Click to view the page on the server: https://rafpil.github.io/counter/
+
 Technology used:<br />
 JavaScript (ES6), Bootstrap 4, HTML5, CSS3.
 
